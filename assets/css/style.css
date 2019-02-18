@@ -1,0 +1,43 @@
+*{
+	font-family: arial;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.titulo{
+	width: 500px;
+	height: 100px;
+	margin: auto;
+	text-align: center;
+	line-height: 100px;
+}
+.titulo h1{
+	margin: 0px;
+	padding: 0px;
+}
+.pai{
+	width: 500px;
+	height: 250px;
+	background-color: #ccc;
+	margin: auto;
+	display: flex;
+	align-items: center;
+}
+form{
+	width: 500px;
+	height: 100px;
+	text-align: center;
+}
+form span{
+	font-size: 25px;
+}
+#data{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 25px;
+}
+#ok{
+	padding: 20px;
+	cursor: pointer;
+}
